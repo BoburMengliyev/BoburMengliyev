@@ -15,7 +15,7 @@ I'm always looking to expand my knowledge and work on new and interesting challe
 
 ## 📊 GitHub Stats
 
-![Bobur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bobur%20Mengliyev&show_icons=true&theme=tokyonight&hide_border=true)
+![Bobur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoburMengliyev&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
