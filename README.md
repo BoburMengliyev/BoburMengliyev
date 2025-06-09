@@ -27,6 +27,7 @@ I'm always looking to expand my knowledge and work on new and interesting challe
 ---
 
 ## 📫 Contact
+- [Telegram](https://t.me/theboburmengliyev)
 You can reach me via my contact links (coming soon).
 
 ---
