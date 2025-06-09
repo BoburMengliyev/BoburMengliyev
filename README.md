@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I am Bobur Mengliyev 👋
 
-<!--
-**BoburMengliyev/BoburMengliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I’m a passionate developer interested in building useful and creative projects. My main programming languages and tools include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Skills & Tools
+- 💻 C / C++ / C#
+- 🌐 HTML / CSS
+- 🐍 Python
+
+I'm always looking to expand my knowledge and work on new and interesting challenges. I enjoy coding, learning new technologies, and solving problems.
+
+---
+
+## 📊 GitHub Stats
+
+![Bobur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bobur%20Mengliyev&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 🚀 Goals
+- Build cool and helpful projects
+- Master software development best practices
+- Learn more about system design and architecture
+
+---
+
+## 📫 Contact
+You can reach me via my contact links (coming soon).
+
+---
+
+_Thanks for visiting my profile! Have a great day!_
