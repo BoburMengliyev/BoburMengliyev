@@ -16,44 +16,17 @@ Languages
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h2>📊 Language Knowledge</h2>
+## 📊 Language Knowledge
 
-<div align="left">
-  <p><strong>💻 C</strong></p>
-  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
-    <div style="background-color: #00599C; width: 80%; color: white; padding: 5px; border-radius: 5px;">80%</div>
-  </div>
-
-  <p><strong>💻 C++</strong></p>
-  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
-    <div style="background-color: #00599C; width: 60%; color: white; padding: 5px; border-radius: 5px;">60%</div>
-  </div>
-
-  <p><strong>💻 C#</strong></p>
-  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
-    <div style="background-color: #239120; width: 50%; color: white; padding: 5px; border-radius: 5px;">50%</div>
-  </div>
-
-  <p><strong>💻 Python</strong></p>
-  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
-    <div style="background-color: #3776AB; width: 45%; color: white; padding: 5px; border-radius: 5px;">45%</div>
-  </div>
-
-  <p><strong>💻 HTML</strong></p>
-  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
-    <div style="background-color: #E34F26; width: 70%; color: white; padding: 5px; border-radius: 5px;">70%</div>
-  </div>
-
-  <p><strong>💻 CSS</strong></p>
-  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
-    <div style="background-color: #1572B6; width: 35%; color: white; padding: 5px; border-radius: 5px;">35%</div>
-  </div>
-
-  <p><strong>💻 Java</strong></p>
-  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
-    <div style="background-color: #f89820; width: 30%; color: white; padding: 5px; border-radius: 5px;">30%</div>
-  </div>
-</div>
+| Language | Proficiency |
+|----------|-------------|
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ▮▮▮▮▮▮▮▮▮▮ 80% |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white) | ▮▮▮▮▮▮▮▮□□ 60% |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ▮▮▮▮▮▮□□□□ 50% |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ▮▮▮▮▮□□□□□ 45% |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ▮▮▮▮▮▮▮▮▮□ 70% |
+| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ▮▮▮▮□□□□□□ 35% |
+| ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white) | ▮▮▮□□□□□□□ 30% |
 
 I'm always looking to expand my knowledge and work on new and interesting challenges. I enjoy coding, learning new technologies, and solving problems.
 
