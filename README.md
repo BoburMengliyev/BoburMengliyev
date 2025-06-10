@@ -16,41 +16,44 @@ Languages
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📊 Language Knowledge
+<h2>📊 Language Knowledge</h2>
 
-> 💻 **C**  
-> ▫️ Proficiency: **80%**
+<div align="left">
+  <p><strong>💻 C</strong></p>
+  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
+    <div style="background-color: #00599C; width: 80%; color: white; padding: 5px; border-radius: 5px;">80%</div>
+  </div>
 
----
+  <p><strong>💻 C++</strong></p>
+  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
+    <div style="background-color: #00599C; width: 60%; color: white; padding: 5px; border-radius: 5px;">60%</div>
+  </div>
 
-> 💻 **C++**  
-> ▫️ Proficiency: **60%**
+  <p><strong>💻 C#</strong></p>
+  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
+    <div style="background-color: #239120; width: 50%; color: white; padding: 5px; border-radius: 5px;">50%</div>
+  </div>
 
----
+  <p><strong>💻 Python</strong></p>
+  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
+    <div style="background-color: #3776AB; width: 45%; color: white; padding: 5px; border-radius: 5px;">45%</div>
+  </div>
 
-> 💻 **C#**  
-> ▫️ Proficiency: **50%**
+  <p><strong>💻 HTML</strong></p>
+  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
+    <div style="background-color: #E34F26; width: 70%; color: white; padding: 5px; border-radius: 5px;">70%</div>
+  </div>
 
----
+  <p><strong>💻 CSS</strong></p>
+  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
+    <div style="background-color: #1572B6; width: 35%; color: white; padding: 5px; border-radius: 5px;">35%</div>
+  </div>
 
-> 💻 **Python**  
-> ▫️ Proficiency: **45%**
-
----
-
-> 💻 **HTML**  
-> ▫️ Proficiency: **70%**
-
----
-
-> 💻 **CSS**  
-> ▫️ Proficiency: **35%**
-
----
-
-> 💻 **Java**  
-> ▫️ Proficiency: **30%**
-
+  <p><strong>💻 Java</strong></p>
+  <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%; max-width: 400px;">
+    <div style="background-color: #f89820; width: 30%; color: white; padding: 5px; border-radius: 5px;">30%</div>
+  </div>
+</div>
 
 I'm always looking to expand my knowledge and work on new and interesting challenges. I enjoy coding, learning new technologies, and solving problems.
 
