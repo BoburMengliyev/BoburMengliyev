@@ -16,6 +16,11 @@ Languages
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## 📊 Language Knowledge
+
+![Language Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['C','C++','C#','Python','HTML','CSS','Java'],datasets:[{data:[80,60,50,45,70,35,30]}]}})
+
+
 I'm always looking to expand my knowledge and work on new and interesting challenges. I enjoy coding, learning new technologies, and solving problems.
 
 ---
