@@ -20,13 +20,13 @@ Languages
 
 | Language | Proficiency |
 |----------|-------------|
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ▮▮▮▮▮▮▮▮▮▮ 80% |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white) | ▮▮▮▮▮▮▮▮□□ 60% |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ▮▮▮▮▮▮□□□□ 50% |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ▮▮▮▮▮□□□□□ 45% |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ▮▮▮▮▮▮▮▮▮□ 70% |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ▮▮▮▮□□□□□□ 35% |
-| ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white) | ▮▮▮□□□□□□□ 30% |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮□□ 90% |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white) | ▮▮▮▮▮▮▮▮▮▮▮▮□□□□□□□□ 60% |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ▮▮▮▮▮▮▮▮□□□□□□□□ 50% |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ▮▮▮▮▮▮▮□□□□□□□□□ 45% |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ▮▮▮▮▮▮▮▮▮▮▮▮▮▮□□□□□□ 70% |
+| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ▮▮▮▮▮▮□□□□□□□□□□ 35% |
+| ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white) | ▮▮▮▮▮□□□□□□□□□□□ 30% |
 
 I'm always looking to expand my knowledge and work on new and interesting challenges. I enjoy coding, learning new technologies, and solving problems.
 
