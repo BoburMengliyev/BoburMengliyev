@@ -18,7 +18,39 @@ Languages
 
 ## 📊 Language Knowledge
 
-![Language Pie Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22C%22%2C%22C%2B%2B%22%2C%22C%23%22%2C%22Python%22%2C%22HTML%22%2C%22CSS%22%2C%22Java%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B80%2C60%2C50%2C45%2C70%2C35%2C30%5D%7D%5D%7D%7D)
+> 💻 **C**  
+> ▫️ Proficiency: **80%**
+
+---
+
+> 💻 **C++**  
+> ▫️ Proficiency: **60%**
+
+---
+
+> 💻 **C#**  
+> ▫️ Proficiency: **50%**
+
+---
+
+> 💻 **Python**  
+> ▫️ Proficiency: **45%**
+
+---
+
+> 💻 **HTML**  
+> ▫️ Proficiency: **70%**
+
+---
+
+> 💻 **CSS**  
+> ▫️ Proficiency: **35%**
+
+---
+
+> 💻 **Java**  
+> ▫️ Proficiency: **30%**
+
 
 I'm always looking to expand my knowledge and work on new and interesting challenges. I enjoy coding, learning new technologies, and solving problems.
 
